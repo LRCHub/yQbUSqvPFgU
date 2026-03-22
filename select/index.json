@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "桜町",
+  "base_artist": "Cody・Lee(李)",
+  "createdAt": "2026-03-22T02:25:23.881399Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桜町",
+      "artist": "Cody・Lee(李)",
+      "has_synced": false,
+      "path": "select/01_桜町_Cody・Lee(李).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桜町",
+      "artist": "Cody ・Lee (李)",
+      "has_synced": false,
+      "path": "select/02_桜町_Cody_・Lee_(李).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜町",
+      "artist": "Cody・Lee(李)",
+      "has_synced": false,
+      "path": "select/pl_01_桜町_Cody・Lee(李).txt"
+    }
+  ]
+}
